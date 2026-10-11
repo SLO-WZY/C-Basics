@@ -1,0 +1,6 @@
+# Ignorowane pliki wykonywalne
+*.exe
+*.o
+
+# Ignorowane foldery środowiska
+.vscode/
